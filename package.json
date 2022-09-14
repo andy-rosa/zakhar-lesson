@@ -1,0 +1,10 @@
+{
+  "name": "zakhar-lesson",
+  "version": "0.1.0",
+  "author": "Andrey Shi <andy.roshitu@gmail.com>",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
